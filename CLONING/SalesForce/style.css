@@ -36,10 +36,15 @@ html,body{
 .texts a:hover{
     color: rgb(0, 176, 211);
 }
+#logo{
+    height: 67px;
+    width: 125px;
+    margin-left: 0%;
+}
 #logo img{
     height: 100%;
     width: 100%;
-    /* margin-right: 20px; */
+    object-fit: cover;
     padding: 2%;
 }
 #contactinfo{
