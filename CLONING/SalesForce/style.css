@@ -21,6 +21,7 @@ html,body{
     justify-content: space-around;
     background-color: white;
 }
+
 #page1{
     height: 90%;
     width: 100%;
@@ -36,16 +37,12 @@ html,body{
 .texts a:hover{
     color: rgb(0, 176, 211);
 }
-#logo{
-    height: 67px;
-    width: 125px;
-    margin-left: 0%;
-}
 #logo img{
     height: 100%;
+    margin: 0%;
     width: 100%;
-    object-fit: cover;
-    padding: 2%;
+    padding: 0%;
+    object-fit: contain;
 }
 #contactinfo{
     text-align: center;
@@ -82,7 +79,6 @@ html,body{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* margin-left: 25px; */
     border-radius: 40%;
     color: navy;
 }
