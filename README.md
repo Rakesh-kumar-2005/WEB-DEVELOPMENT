@@ -7,7 +7,7 @@ Welcome to my **Web Development** repository! 🚀 This repo contains a collecti
 ## 📌 What's Inside?
 - 🎨 **Frontend Projects:** Creative UI/UX designs using HTML, CSS, and JavaScript.
 - ⚛️ **React Projects:** Dynamic, interactive web apps built with React.
-- 📱 **App Clones:** Clones of popular applications showcasing real-world development skills.
+- ☕ **SpringBoot Projecs:** Robust, scalable backend services and APIs powered by Spring Boot..
 
 ---
 
